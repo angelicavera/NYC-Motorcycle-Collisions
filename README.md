@@ -22,7 +22,7 @@
 <h3>Seasonal and Time-of-Day Patterns:</h3>
 
 <ul>
-  <li>The majority of accidents occur during the warmer months, weekends, and rush hours. To avoid such risk, opting for rides in cooler months, weekdays, and morning hours can help reduce the risk.</li>
+  <li>The majority of accidents occur during the warmer months, weekends, and rush hours. Opting for rides in cooler months, weekdays, and morning hours can help reduce the risk.</li>
 </ul>
 
 <h3>Injury Risk:</h3>
